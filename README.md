@@ -1,4 +1,3 @@
-SimpleJoinUI plugin for Pocketmine-MP
 <p align="center">
     <a href="https://github.com/Terpz710/SimpleJoinUI/blob/main/icon.PNG"><img src="https://github.com/Terpz710/SimpleJoinUI/blob/main/icon.PNG"></img></a><br>
     <b>SimpleJoinUI plugin for Pocketmine-MP</b>
