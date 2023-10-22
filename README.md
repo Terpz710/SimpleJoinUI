@@ -3,7 +3,7 @@
     <b>SimpleJoinUI plugin for Pocketmine-MP</b>
 
 # Description
-When a user joins the server for the first time it will send a form UI and title to the player. If the user already played or joined it will not send the form and title. All customizable through thr config. If you have any issues please contact me via discord. Thank you!
+When a user joins the server for the first time it will send a form UI and title to the player. If the user already played or joined it will not send the form and title. All customizable through the config. If you have any issues please contact me via discord. Thank you!
 
 Discord: ace873056  
 
