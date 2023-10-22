@@ -11,7 +11,7 @@ messages:
   # Add as many lines you need.
   content:
     - "Welcome {player}!"
-    - "Follow fhe rules below!"
+    - "Follow the rules below!"
     - "Made by Terpz710"
   
   # Buttons
